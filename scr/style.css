@@ -12,3 +12,26 @@ input[type="text"] {
   height: 25px;
   width: 200px;
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  height: 30px;
+}
+
+td.id {
+  text-align: center;
+  width: 120px;
+}
+
+td.company {
+  width: 150px;
+  text-align: center;
+}
+
+td.price {
+  text-align: right;
+  width: 100px;
+}
